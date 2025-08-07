@@ -1,13 +1,15 @@
 //Ancient Spawn Points
+
 //Vector == setpos_exact x, y, z
 //Qangle == setang_exact x, y, z
 //Team: 2 = Terrorists, 3 = Counter-Terrorists
 //Bombsite: 0 = A, 1 = B
 //CanBePlanter: Boolean
 
-//Order of file is Bombsite, Team. 
+//Order of file is Bombsite, Team. Spawns named for convenience
 {
   "Spawns": [
+    //
     {
       "Vector": "-1,701.56 -1,136.77 -21.34",
       "QAngle": "0.00 92.42 0.00",
