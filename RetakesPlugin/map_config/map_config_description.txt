@@ -1,11 +1,11 @@
 For any .json file in current directory.
 
+Order of file is Bombsite (A, then B), and Team (CT, then T). 
+_comment: Spawn name structure is Bombsite: Team, Description. 
 Vector == setpos_exact x, y, z
 Qangle == setang_exact x, y, z
 Team: 2 = Terrorists, 3 = Counter-Terrorists
 Bombsite: 0 = A, 1 = B
 CanBePlanter: Boolean
 
-Order of file is Bombsite (A, then B), and Team (CT, then T). 
-Spawn name structure is Bombsite: Team, Description. 
 Commas must be removed for setpos_exact/getpos_exact testing.
